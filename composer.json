@@ -1,5 +1,5 @@
 {
-    "name": "hakimel/uvicate/Ladda",
+    "name": "uvicate/Ladda",
     "type": "library",
     "description": "Buttons with built-in loading indicators",
     "keywords": ["button", "loading", "css", "javascript"],
