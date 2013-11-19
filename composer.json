@@ -1,0 +1,17 @@
+{
+    "name": "hakimel/uvicate/Ladda",
+    "type": "library",
+    "description": "Buttons with built-in loading indicators",
+    "keywords": ["button", "loading", "css", "javascript"],
+    "homepage": "https://github.com/uvicate/Ladda",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "Victor Quiroz",
+    		"email": "victorhqc@gmail.com",
+    		"homepage": "http://victorhqc.com",
+    		"role": "Developer"
+    	}
+    ]
+}
