@@ -7,11 +7,17 @@
     "require": {},
     "license": "MIT",
     "authors": [
+        {
+            "name": "Hakim El Hattab",
+            "email": "hakim.elhattab@gmail.com",
+            "homepage": "http://hakim.se",
+            "role": "Developer"
+        },
     	{
     		"name": "Victor Quiroz",
     		"email": "victorhqc@gmail.com",
     		"homepage": "http://victorhqc.com",
-    		"role": "Developer"
+    		"role": "Maintainer"
     	}
     ]
 }
